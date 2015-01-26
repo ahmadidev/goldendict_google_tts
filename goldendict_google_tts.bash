@@ -1,3 +1,5 @@
+ #!/bin/bash
+
 #Small bash script to use google tts
 #Hakan - 26 Jan 2015
 
